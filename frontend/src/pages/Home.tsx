@@ -1,5 +1,5 @@
 import axios from "axios";
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import { BASE_URL } from "../config";
 import { Link } from "react-router-dom";
 import NameTag from "../components/NameTag";
